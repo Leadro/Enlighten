@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name             = 'Enlighten'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = '💡 An integrated spotlight-based onboarding and help library for macOS, written in Swift.'
   s.homepage         = 'https://github.com/chriszielinski/Enlighten'
   s.screenshots     = 'https://raw.githubusercontent.com/chriszielinski/Enlighten/master/readme-assets/gifs/enlighten.gif'
